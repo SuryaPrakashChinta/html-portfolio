@@ -1,0 +1,12 @@
+<style>
+        h1 {
+            color: black;
+        }
+
+        body {
+            background-image: url("./profile_photo.jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        
+</style>
